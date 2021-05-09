@@ -55,6 +55,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ParallaxLoopCustomFunction_4388f69e14764f938e51f074f4e25f05_Noise_9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -99,6 +103,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 9784a13d56e43c043bda531c0d5b68f2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_f86cca871bac4d9a90fd0fe6bcdf9310_Out_0:
+        m_Texture: {fileID: 2800000, guid: 7b42361f774c64a43a9e9ad06a7e02eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -112,8 +120,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_2eac10f6cfd84ee584af2390e63eb55a: 55.66
-    - Vector1_c7198723d38a439889c028843729fff6: -0.003
+    - Vector1_2eac10f6cfd84ee584af2390e63eb55a: 33.51
+    - Vector1_3550f284dcc2466c934a2ff2804a8ee4: 1.17
+    - Vector1_c489bf0c5c0a4923bdb3bffb3fbbed47: 16
+    - Vector1_c7198723d38a439889c028843729fff6: 0.3
+    - Vector1_df41302dee14471da8d5f348097d15cf: -2.7
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
