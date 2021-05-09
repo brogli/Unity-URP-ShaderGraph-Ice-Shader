@@ -10,4 +10,4 @@ The tutorial creators themselves were inspired by [this article](https://80.lv/a
 
 
 
-![jif04](https://user-images.githubusercontent.com/28339986/117579141-e75a6500-b0f1-11eb-8e06-4d26fef5feac.gif)
+![jif05](https://user-images.githubusercontent.com/28339986/117581538-833d9e00-b0fd-11eb-9380-a7a259f7684b.gif)
